@@ -45,4 +45,10 @@ void draw()
   fill(50, 175, 255);
   triangle(100, 150, 100, 750, 300, 450);
   
+  //CIRCLE
+  
+  strokeWeight(5);
+  stroke(175, 225, 240);
+  ellipse(185, 450, 120, 120);
+  
 }
