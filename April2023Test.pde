@@ -11,7 +11,7 @@ void draw()
   
   //RECTANGLES
   
-  //PURPLE
+  //PINK
   fill(225, 255, 240);
   rect(100, 25, 1750, 200, 100, 25, 1750, 200);
   //RED
